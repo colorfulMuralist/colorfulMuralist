@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+  <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="300" height="300" style="max-width: 400%; height: auto;">
 <hr>
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
 <li>
@@ -10,7 +11,15 @@
 <li>
   limiromantic
 </li>
+  <li>
+    dni profic or anything of sorts
+  </li>
+
 <p>more info and prettier formatting in strawpge!</p>
+<h2>fandoms i am in</h2>
+<p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>i WANT to get into rdr 2😔 #broke </p>
+<h2> music i like </h2>
+<p>BJORK💜<br>Mitski<br>Devi Mcallion(all of her side names)<br>Aphex Twin<br>Alex G<br>temachii
 <hr>
 
 <div style="display: flex; gap: 10px;">
