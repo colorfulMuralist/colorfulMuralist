@@ -12,7 +12,7 @@
   limiromantic
 </li>
   <li>
-    dni profic or anything of sorts
+    dni darkship/map or anything of sorts
   </li>
 
 <p>more info and prettier formatting in strawpge!</p>
