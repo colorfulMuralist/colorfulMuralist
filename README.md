@@ -1,5 +1,7 @@
 <div style="text-align: center;">
   <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="300" height="300" style="max-width: 400%; height: auto;">
+    <img src="https://i.pinimg.com/originals/8e/65/1c/8e651c0bede47e98a4fde2b1c008b4e5.gif" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
+
 <hr>
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
 <li>
@@ -17,9 +19,10 @@
 
 <p>more info and prettier formatting in strawpge!</p>
 <h2>fandoms i am in</h2>
-<p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>i WANT to get into rdr 2😔 #broke </p>
+<p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>resident evil</p>
+
 <h2> music i like </h2>
-<p>BJORK💜<br>Mitski<br>Devi Mcallion(all of her side names)<br>Aphex Twin<br>Alex G<br>temachii
+<p>Bjork<br>Mitski<br>Devi Mcallion(all of her side names)<br>Aphex Twin<br>Alex G<br>temachii<br>Fiona Apple<br></p>
 <hr>
 
 <div style="display: flex; gap: 10px;">
@@ -43,3 +46,5 @@
 <br>
 <img src="https://media1.tenor.com/m/S0H5ZYC3ZXEAAAAC/roxy-lalonde-roxy.gif"alt="jermaF" width="150" height="190" style="max-width: 100%; height: auto;">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad0f821f-bb6e-4268-a54b-03e7bf580609/d4k9vmx-cc8827d3-a5f2-4901-8b31-1faf8c4e8f38.jpg/v1/fit/w_300,h_472,q_70,strp/oc_pony_swag_by_meowmeowparadise_d4k9vmx-300w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDcyIiwicGF0aCI6IlwvZlwvYWQwZjgyMWYtYmI2ZS00MjY4LWE1NGItMDNlN2JmNTgwNjA5XC9kNGs5dm14LWNjODgyN2QzLWE1ZjItNDkwMS04YjMxLTFmYWY4YzRlOGYzOC5qcGciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.F1dbgzaR7AFCpoNz9XdWL8Vj6hjPd6pQvZfKkCrcVpk" width="150" height="190" style="max-width: 100%; height: auto;">
+    <img src="https://i.pinimg.com/736x/a8/6e/fe/a86efee9d4959ebb9cd22931712e9610.jpg" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
+
