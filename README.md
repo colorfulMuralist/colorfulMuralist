@@ -1,6 +1,7 @@
 <div style="text-align: center;">
   <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="300" height="300" style="max-width: 400%; height: auto;">
     <img src="https://i.pinimg.com/originals/8e/65/1c/8e651c0bede47e98a4fde2b1c008b4e5.gif" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
+       
 
 <hr>
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
@@ -23,6 +24,7 @@
 
 <h2> music i like </h2>
 <p>Bjork<br>Mitski<br>Devi Mcallion(all of her side names)<br>Aphex Twin<br>Alex G<br>temachii<br>Fiona Apple<br></p>
+
 <hr>
 
 <div style="display: flex; gap: 10px;">
