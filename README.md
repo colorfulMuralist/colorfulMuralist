@@ -24,6 +24,14 @@
 
 <h2> music i like </h2>
 <p>Bjork<br>Mitski<br>Devi Mcallion(all of her side names)<br>Aphex Twin<br>Alex G<br>temachii<br>Fiona Apple<br></p>
+ <img src="https://i.pinimg.com/736x/e2/e5/e6/e2e5e619dced720c8474d9e61e900389.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+ <img src="https://i.pinimg.com/736x/00/f3/e0/00f3e0d120f4e711f638a7974d1362ae.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+ <img src="https://i.pinimg.com/736x/f5/93/7e/f5937ee2796fd29fd83e680b448221a7.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+ <img src="https://i.pinimg.com/736x/f9/11/f1/f911f1f9835f4da5dcff1e00335df0c2.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+ <img src="https://i.pinimg.com/avif/736x/f7/12/c0/f712c0cdc6149eeaf01651655df2053f.avf" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+  <img src="https://i.pinimg.com/736x/60/3c/5e/603c5e15990cdef55ac93a55ca6ab43f.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d49f26bb960ff537694cb0e5" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
+
 
 <hr>
 
