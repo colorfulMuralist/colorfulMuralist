@@ -19,6 +19,7 @@
   </li>
 
 <p>more info and prettier formatting in strawpge!</p>
+<p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p>
 <h2>fandoms i am in</h2>
 <p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>resident evil</p>
 
