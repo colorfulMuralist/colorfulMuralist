@@ -15,7 +15,7 @@
 <p></p>
 <p><img src="https://i.pinimg.com/736x/e9/0f/d5/e90fd5cfd42f05fcef2979c5bd974d3d.jpg"alt="jermaF" width="60" height="300" style="max-width: 200%; height: auto;">
 <img src="https://i.pinimg.com/1200x/3a/0e/85/3a0e85dbc2c33d1d4e405153f50f65e1.jpg"alt="jermaF" width="60" height="300" style="max-width: 200%; height: auto;">
-<img src="https://i.pinimg.com/736x/27/45/a7/2745a7d26a8ecaef798aea4a5329e2b7.jpg"alt="jermaF" width="60" height="300" style="max-width: 200%; height: auto;"></p>
+<img src="https://i.pinimg.com/736x/2f/cf/d3/2fcfd33d88014a8bc888a52630ad8baf.jpg"alt="jermaF" width="61" height="300" style="max-width: 200%; height: auto;"></p>
 
   <p>    <strong>dni darkship/map or anything of sorts</strong></p>
  
