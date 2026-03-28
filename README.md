@@ -7,7 +7,7 @@
 <hr>
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
   
-<strong><a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">listen to this for a more silly experince while browsing ^_^</a></strong>
+<strong><a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">listen to this for a more silly experience while browsing ^_^</a></strong>
 
 <li>
   she/he
@@ -21,7 +21,7 @@
  
 
 <p>more info and prettier formatting in strawpge!</p>
-<p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p>
+<strong><p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p></strong>
 <h2>fandoms i am in</h2>
 <p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>resident evil</p>
 
