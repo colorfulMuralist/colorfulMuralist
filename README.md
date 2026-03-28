@@ -6,19 +6,19 @@
 
 <hr>
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
-
-<a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">listen to this for a more silly experince while browsing ^_^</a>
+  
+<strong><a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">listen to this for a more silly experince while browsing ^_^</a></strong>
 
 <li>
   she/he
 </li>
+<p></p>
 <p><img src="https://i.pinimg.com/736x/e9/0f/d5/e90fd5cfd42f05fcef2979c5bd974d3d.jpg"alt="jermaF" width="60" height="300" style="max-width: 200%; height: auto;">
 <img src="https://i.pinimg.com/1200x/3a/0e/85/3a0e85dbc2c33d1d4e405153f50f65e1.jpg"alt="jermaF" width="60" height="300" style="max-width: 200%; height: auto;">
 <img src="https://i.pinimg.com/736x/27/45/a7/2745a7d26a8ecaef798aea4a5329e2b7.jpg"alt="jermaF" width="60" height="300" style="max-width: 200%; height: auto;"></p>
 
-  <li>
-    dni darkship/map or anything of sorts
-  </li>
+  <p>    <strong>dni darkship/map or anything of sorts</strong></p>
+ 
 
 <p>more info and prettier formatting in strawpge!</p>
 <p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p>
