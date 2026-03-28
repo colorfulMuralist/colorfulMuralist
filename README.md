@@ -19,7 +19,7 @@
 
   <p>    <strong>dni darkship/map or anything of sorts</strong></p>
  
-<p> neurodivergent i am mentally ill 👍👍👍</p>
+<p>very neurodivergent 👍👍👍</p>
 <p>more info and prettier formatting in strawpge!</p>
 <strong><p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p></strong>
 <h2>fandoms i am in</h2>
