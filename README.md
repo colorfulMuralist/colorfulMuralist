@@ -18,6 +18,7 @@
  
 <p>very neurodivergent 👍👍👍</p>
 <p>mostly online but distracted by other tabs + i afk to get up every minute or so so i might miss ur messages if its public chat :,)</p>
+<p>i have social anxiety even on a pony game so sorry if im silent im scared to intrude or barge in on convos 😭</p>
 <strong><p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p></strong>
 <h2>fandoms i am in</h2>
 <p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>resident evil</p>
