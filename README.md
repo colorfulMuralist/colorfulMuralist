@@ -1,45 +1,67 @@
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="300" height="300" style="max-width: 400%; height: auto;">
-    <img src="https://i.pinimg.com/originals/8e/65/1c/8e651c0bede47e98a4fde2b1c008b4e5.gif" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
-       <img src="https://i.pinimg.com/736x/c3/8b/11/c38b113adbc42f834499006a99b0c1dc.jpg" alt="jermaF" width="250" height="300" style="max-width: 900%; height: auto;">
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="190">
+  <img src="https://i.pinimg.com/originals/8e/65/1c/8e651c0bede47e98a4fde2b1c008b4e5.gif" alt="jerma2" width="120">
+  <img src="https://i.pinimg.com/736x/c3/8b/11/c38b113adbc42f834499006a99b0c1dc.jpg" alt="jerma" width="160">
+</div>
+
 <hr>
+
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
-  
-<strong><a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">listen to this for a more silly experience while browsing ^_^</a></strong>
 
-<li>
-  she/he
-</li>
-<p></p>
+<strong>
+  <a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">
+    listen to this for a more silly experience while browsing ^_^
+  </a>
+</strong>
 
-  <p>    <strong>dni darkship/map or anything of sorts</strong></p>
- 
+<ul>
+  <li>she/he</li>
+</ul>
+
+<p><strong>dni darkship/map or anything of sorts</strong></p>
+
 <p>very neurodivergent 👍👍👍</p>
-<p>mostly online but distracted by other tabs + i afk to get up every minute or so so i might miss ur messages if its public chat :,)</p>
-<p>i have social anxiety even on a pony game so sorry if im silent im scared to intrude or barge in on convos 😭</p>
-<strong><p> + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . + ° .  ๑・° ⊹ . +.ᐟ</p></strong>
+<p>mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
+<p>i have social anxiety even in pony game so sorry if im silent 😭</p>
+
+<p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.ᐟ</strong></p>
+
 <h2>fandoms i am in</h2>
-<p>homestuck<br>spto / spvtw<br>resident evil <br>genshin impact <br>team fortress 2<br>utau/vocaloid<br>eddsworld<br>portal 2<br>jerma985<br>mlp<br>stardew valley<br>athf<br>resident evil</p>
+<p>
+homestuck<br>
+spto / spvtw<br>
+resident evil<br>
+genshin impact<br>
+team fortress 2<br>
+utau/vocaloid<br>
+eddsworld<br>
+portal 2<br>
+jerma985<br>
+mlp<br>
+stardew valley<br>
+athf
+</p>
 
-<h2> music i like </h2>
-<p>Bjork<br>Mitski<br>Devi Mcallion(all of her side names)<br>Aphex Twin<br>Alex G<br>temachii<br>Fiona Apple<br></p>
- <img src="https://i.pinimg.com/736x/e2/e5/e6/e2e5e619dced720c8474d9e61e900389.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
- <img src="https://i.pinimg.com/736x/00/f3/e0/00f3e0d120f4e711f638a7974d1362ae.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
- <img src="https://i.pinimg.com/736x/f5/93/7e/f5937ee2796fd29fd83e680b448221a7.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
- <img src="https://i.pinimg.com/736x/f9/11/f1/f911f1f9835f4da5dcff1e00335df0c2.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
- <img src="https://i.pinimg.com/avif/736x/f7/12/c0/f712c0cdc6149eeaf01651655df2053f.avf" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
-  <img src="https://i.pinimg.com/736x/60/3c/5e/603c5e15990cdef55ac93a55ca6ab43f.jpg" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d49f26bb960ff537694cb0e5" alt="jermaF" width="85" height="300" style="max-width: 900%; height: auto;">
-
+<h2>music i like</h2>
+<p>
+Bjork<br>
+Mitski<br>
+Devi Mcallion<br>
+Aphex Twin<br>
+Alex G<br>
+temachii<br>
+Fiona Apple
+</p>
 
 <hr>
+<!--
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7069d944-09a0-49e8-ae06-9180bee54175/d72q4f2-e669822b-4013-4c13-9b31-6a3baa6873c6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MDY5ZDk0NC0wOWEwLTQ5ZTgtYWUwNi05MTgwYmVlNTQxNzUvZDcycTRmMi1lNjY5ODIyYi00MDEzLTRjMTMtOWIzMS02YTNiYWE2ODczYzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8ed1dQyFegNHQFhXNtHancvc6tazU6vAifNLVc63yDA" width="150" height="200" style="max-width: 100%; height: auto;">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/di4fltu-da680a58-6ab7-4472-b217-dc5e099269c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGk0Zmx0dS1kYTY4MGE1OC02YWI3LTQ0NzItYjIxNy1kYzVlMDk5MjY5YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qx2wviM_v0FXJlHNCM-IuR5mgyjXrefcqyXzX-u1RWs" alt="jermaF" width="150" height="200" style="max-width: 100%; height: auto;">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93dfdee2-0c64-436c-9bcd-91b5cede2b20/dk2p0ky-2d3240e8-ee69-4833-b274-7540126e7461.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85M2RmZGVlMi0wYzY0LTQzNmMtOWJjZC05MWI1Y2VkZTJiMjAvZGsycDBreS0yZDMyNDBlOC1lZTY5LTQ4MzMtYjI3NC03NTQwMTI2ZTc0NjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9zNwgkoslYk700mQ1-qXakbvWQ0xUa83LCJoN_qIkaY" alt="jermaF" width="150" height="200" style="max-width: 100%; height: auto;">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b97cb44-3d12-47b7-9921-40201cc5f4de/d4l0hdh-af6acdf0-9654-4cd6-afe4-de71e711332c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYjk3Y2I0NC0zZDEyLTQ3YjctOTkyMS00MDIwMWNjNWY0ZGUvZDRsMGhkaC1hZjZhY2RmMC05NjU0LTRjZDYtYWZlNC1kZTcxZTcxMTMzMmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LlEotRLELLjdbbw3TJGDsNMarm_XZfmxlTMPPooK2Sk" alt="jermaF" width="150" height="200" style="max-width: 100%; height: auto;">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c8ee1ca-79d9-4354-a5b1-a0c018460901/dl2le8o-bc46ca05-9c9c-44cd-ae77-d8f2ef7f706f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YzhlZTFjYS03OWQ5LTQzNTQtYTViMS1hMGMwMTg0NjA5MDEvZGwybGU4by1iYzQ2Y2EwNS05YzljLTQ0Y2QtYWU3Ny1kOGYyZWY3ZjcwNmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cg4VE4NOgmsGXZTem2DxVVIolpKT-wZal0u3ivvz9Z8" alt="jermaF" width="150" height="190" style="max-width: 100%; height: auto;">
+<div style="display:flex; flex-wrap:wrap; gap:6px; align-items:flex-start;">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7069d944-09a0-49e8-ae06-9180bee54175/d72q4f2-e669822b-4013-4c13-9b31-6a3baa6873c6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MDY5ZDk0NC0wOWEwLTQ5ZTgtYWUwNi05MTgwYmVlNTQxNzUvZDcycTRmMi1lNjY5ODIyYi00MDEzLTRjMTMtOWIzMS02YTNiYWE2ODczYzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8ed1dQyFegNHQFhXNtHancvc6tazU6vAifNLVc63yDA"
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/di4fltu-da680a58-6ab7-4472-b217-dc5e099269c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGk0Zmx0dS1kYTY4MGE1OC02YWI3LTQ0NzItYjIxNy1kYzVlMDk5MjY5YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qx2wviM_v0FXJlHNCM-IuR5mgyjXrefcqyXzX-u1RWs" alt="jermaF" 
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93dfdee2-0c64-436c-9bcd-91b5cede2b20/dk2p0ky-2d3240e8-ee69-4833-b274-7540126e7461.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85M2RmZGVlMi0wYzY0LTQzNmMtOWJjZC05MWI1Y2VkZTJiMjAvZGsycDBreS0yZDMyNDBlOC1lZTY5LTQ4MzMtYjI3NC03NTQwMTI2ZTc0NjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9zNwgkoslYk700mQ1-qXakbvWQ0xUa83LCJoN_qIkaY" alt="jermaF" 
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b97cb44-3d12-47b7-9921-40201cc5f4de/d4l0hdh-af6acdf0-9654-4cd6-afe4-de71e711332c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYjk3Y2I0NC0zZDEyLTQ3YjctOTkyMS00MDIwMWNjNWY0ZGUvZDRsMGhkaC1hZjZhY2RmMC05NjU0LTRjZDYtYWZlNC1kZTcxZTcxMTMzMmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LlEotRLELLjdbbw3TJGDsNMarm_XZfmxlTMPPooK2Sk" alt="jermaF"
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c8ee1ca-79d9-4354-a5b1-a0c018460901/dl2le8o-bc46ca05-9c9c-44cd-ae77-d8f2ef7f706f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YzhlZTFjYS03OWQ5LTQzNTQtYTViMS1hMGMwMTg0NjA5MDEvZGwybGU4by1iYzQ2Y2EwNS05YzljLTQ0Y2QtYWU3Ny1kOGYyZWY3ZjcwNmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cg4VE4NOgmsGXZTem2DxVVIolpKT-wZal0u3ivvz9Z8" alt="jermaF"
 </div>
 <div style="display: flex; gap: 10px;">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dc0073a-e985-4aa9-85d0-4152ebb4c7e4/dgnefgj-58722b58-027e-4479-a982-e127148392aa.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xZGMwMDczYS1lOTg1LTRhYTktODVkMC00MTUyZWJiNGM3ZTQvZGduZWZnai01ODcyMmI1OC0wMjdlLTQ0NzktYTk4Mi1lMTI3MTQ4MzkyYWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0rjXOXHTjmrWym_g1MhiylgPBYIf04gfMbiASWqk0Rs"alt="jermaF" width="150" height="190" style="max-width: 100%; height: auto;">
@@ -61,7 +83,7 @@
   <img src="https://64.media.tumblr.com/99aa5530620dac5085e33cd4f1615ac0/53ab2f313905a2c3-4e/s100x200/6815f563d5b15f72d65b0dc8719a658b870288f6.pnj"alt="jermaF" width="150" height="300" style="max-width: 200%; height: auto;">
    <img src="https://64.media.tumblr.com/041f8b3e644746587dce2abde0002b61/050bbaf788ccb4ab-50/s100x200/36d0b1d337d2a4c27fe6b44a1385a6bcd6c881ce.pnj"alt="jermaF" width="160" height="300" style="max-width: 200%; height: auto;">
    <br>
-   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6633927c-357d-464a-bff9-25c93d108898/d5r2qwj-5a7c3791-7c3e-4abc-938b-0f7a450437b8.png/v1/fill/w_99,h_56,q_80,strp/tricksterjane_stamp___by_meanwhatusay_d5r2qwj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiL2YvNjYzMzkyN2MtMzU3ZC00NjRhLWJmZjktMjVjOTNkMTA4ODk4L2Q1cjJxd2otNWE3YzM3OTEtN2MzZS00YWJjLTkzOGItMGY3YTQ1MDQzN2I4LnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vgLwBUgam5JWiMxInIgeViWt0mdHC4CWsnmEPm6b5Us"alt="jermaF" width="160" height="300" style="max-width: 200%; height: auto;">
+   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6633927c-357d-464a-bff9-25c93d108898/d5r2qwj-5a7c3791-7c3e-4abc-938b-0f7a450437b8.png/v1/fill/w_99,h_56,q_80,strp/tricksterjane_stamp___by_meanwhatusay_d5r2qwj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiL2YvNjYzMzkyN2MtMzU3ZC00NjRhLWJmZjktMjVjOTNkMTA4ODk4L2Q1cjJxd2otNWE3YzM3OTEtN2MzZS00YWJjLTkzOGItMGY3YTQ1MDQzN2I4LnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vgLwBUgam5JWiMxInIgeViWt0mdHC4CWsnmEPm6b5Us"alt="jermaF"
    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/dh7pdyd-6893a2c6-f4cb-4063-ab2a-d112323ead0b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGg3cGR5ZC02ODkzYTJjNi1mNGNiLTQwNjMtYWIyYS1kMTEyMzIzZWFkMGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BiM0dqewNmw3juk6xN6luHkthLn0c0mjZSGIKNZHObM"alt="jermaF" width="160" height="300" style="max-width: 200%; height: auto;">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db34e2d9-0edb-4833-9a1e-5d25544411ae/d68sb1o-6d8ba147-64d0-4541-9525-24e7e4b88e00.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kYjM0ZTJkOS0wZWRiLTQ4MzMtOWExZS01ZDI1NTQ0NDExYWUvZDY4c2Ixby02ZDhiYTE0Ny02NGQwLTQ1NDEtOTUyNS0yNGU3ZTRiODhlMDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ngK49E4ipfOeWb5HTA9wWu8gxg8RBBYjpVwpBGyk3dw"alt="jermaF" width="160" height="300" style="max-width: 200%; height: auto;">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9cfcb622-ea24-4cf9-a677-fdc87b4995c2/d5r7ny1-2201d655-6426-499b-a2be-6c387b473152.png/v1/fill/w_99,h_57,q_80,strp/destroyer_of_peens_by_hugebballshorts_d5r7ny1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTciLCJwYXRoIjoiL2YvOWNmY2I2MjItZWEyNC00Y2Y5LWE2NzctZmRjODdiNDk5NWMyL2Q1cjdueTEtMjIwMWQ2NTUtNjQyNi00OTliLWEyYmUtNmMzODdiNDczMTUyLnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.EEs4MbT7I6UYVZPCkSRE6aKyqSvRQW9iDljFmN8C0nY"alt="jermaF" width="160" height="300" style="max-width: 200%; height: auto;">
@@ -79,4 +101,4 @@
         <img src="https://i.pinimg.com/736x/a8/6e/fe/a86efee9d4959ebb9cd22931712e9610.jpg" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76987afd-45ac-44db-974b-f6b3973ff172/daqsa1s-b35fa7f0-d53f-47be-b215-bc980ddf7b4a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83Njk4N2FmZC00NWFjLTQ0ZGItOTc0Yi1mNmIzOTczZmYxNzIvZGFxc2Excy1iMzVmYTdmMC1kNTNmLTQ3YmUtYjIxNS1iYzk4MGRkZjdiNGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mtjx4wcOE_gy-Kk7KmPs4JPevvdGjXBd-a88i8ap1FQ" alt="jermaF" width="50" height="300" style="max-width: 400%; height: auto;">
 
-</html>
+--!>
