@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <div style="text-align: center;">
   <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="300" height="300" style="max-width: 400%; height: auto;">
     <img src="https://i.pinimg.com/originals/8e/65/1c/8e651c0bede47e98a4fde2b1c008b4e5.gif" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
        <img src="https://i.pinimg.com/736x/c3/8b/11/c38b113adbc42f834499006a99b0c1dc.jpg" alt="jermaF" width="250" height="300" style="max-width: 900%; height: auto;">
-
 <hr>
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
   
@@ -81,3 +79,4 @@
         <img src="https://i.pinimg.com/736x/a8/6e/fe/a86efee9d4959ebb9cd22931712e9610.jpg" alt="jermaF" width="190" height="300" style="max-width: 400%; height: auto;">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76987afd-45ac-44db-974b-f6b3973ff172/daqsa1s-b35fa7f0-d53f-47be-b215-bc980ddf7b4a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83Njk4N2FmZC00NWFjLTQ0ZGItOTc0Yi1mNmIzOTczZmYxNzIvZGFxc2Excy1iMzVmYTdmMC1kNTNmLTQ3YmUtYjIxNS1iYzk4MGRkZjdiNGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mtjx4wcOE_gy-Kk7KmPs4JPevvdGjXBd-a88i8ap1FQ" alt="jermaF" width="50" height="300" style="max-width: 400%; height: auto;">
 
+</html>
