@@ -21,8 +21,9 @@
 <p><strong>dni darkship/map or anything of sorts</strong></p>
 
 <p>very neurodivergent 👍👍👍</p>
-<p>mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
+<p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>i have social anxiety even in pony game so sorry if im silent 😭</p>
+<p>roxy, calliope, and kanaya kin u_u</p>
 
 <p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.ᐟ</strong></p>
 
