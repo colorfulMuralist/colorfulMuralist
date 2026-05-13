@@ -1,4 +1,4 @@
-  <img src="https://i.pinimg.com/736x/dc/61/43/dc614328b7bc2b1e1e2efe098a69462e.jpg" alt="jerma" width="470">
+<img width="356" height="218" alt="image" src="https://github.com/user-attachments/assets/78a3b94f-d29c-46fb-9cc5-6f2c42a2d4d8">
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="190">
