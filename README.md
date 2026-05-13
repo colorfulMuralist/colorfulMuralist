@@ -8,9 +8,7 @@
 
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
 
-<strong>
-  <a href="https://www.youtube.com/watch?v=Ffx56ZqZoIM&list=PLPKT3acmwpRyukim6RC9wVJjC5XZnV4V-&index=2">
-    listen to this for a more silly experience while browsing ^_^
+
   </a>
 </strong>
 
@@ -70,15 +68,26 @@ Fiona Apple
                 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52f520c5-2223-486c-83c6-de0bb1a56708/d7r5m1d-a552e6d6-7b35-400e-9445-b92fe3363e69.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmY1MjBjNS0yMjIzLTQ4NmMtODNjNi1kZTBiYjFhNTY3MDgvZDdyNW0xZC1hNTUyZTZkNi03YjM1LTQwMGUtOTQ0NS1iOTJmZTMzNjNlNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9hQDV0H7u_PPcWkeWh_AvbAQJByux2dIXS-rYQo15hQ" alt="jermaF" width="190">
     
   <br>
-       <img src="https://64.media.tumblr.com/29cc697f0a231d2899918ae9092b7ff0/f4fb86b606f92c28-cb/s100x200/9714d12d9aee4b6b99f7f5aa1509cdfd8de8441a.gifv" alt="jermaF" width="190">
      
   <img src="https://64.media.tumblr.com/da3c9c1f8960fca5f598dc47cbec8fd9/5fa859ff3735cc6c-c4/s100x200/b7a515fb6274b4ceb023ff550fce21e45270d0c3.gifv" alt="jermaF" width="190">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1fb98e4-c7e6-458e-a142-2200e5b6dd8d/djftk8k-1dced679-1235-425e-a103-a5737e309dfc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kMWZiOThlNC1jN2U2LTQ1OGUtYTE0Mi0yMjAwZTViNmRkOGQvZGpmdGs4ay0xZGNlZDY3OS0xMjM1LTQyNWUtYTEwMy1hNTczN2UzMDlkZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5L_E4i5mnS1b-crI2JHHqYGiBQjYBzpTdKNf5ayvy1g" alt="jermaF" width="190">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c8ee1ca-79d9-4354-a5b1-a0c018460901/dl2le8o-78ee215f-1aba-4215-9089-35037eb844d0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YzhlZTFjYS03OWQ5LTQzNTQtYTViMS1hMGMwMTg0NjA5MDEvZGwybGU4by03OGVlMjE1Zi0xYWJhLTQyMTUtOTA4OS0zNTAzN2ViODQ0ZDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ErN7HDFwWhDchYkxiQS-7qxFYdrmHbaHQFzyju2G1I8" alt="jermaF" width="190">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b583892-7098-4916-a22e-f86a999b351f/df99h1s-a36a3a05-741c-4d59-83d6-4d597de33a72.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8yYjU4Mzg5Mi03MDk4LTQ5MTYtYTIyZS1mODZhOTk5YjM1MWYvZGY5OWgxcy1hMzZhM2EwNS03NDFjLTRkNTktODNkNi00ZDU5N2RlMzNhNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9lX79GxRQrhYOotg7nksULKoD1-daPCTuMgokYOLkXE" alt="jermaF" width="190">
+
+<br>
+<img src="https://64.media.tumblr.com/abc6bcdc2979fb8327dec579eb9ca008/38ca1bd77b3f2cc5-dc/s250x400/1a467110fc8d34546a7ae0046776e64c4850607f.pnj" alt="jermaF" width="190">
+<img src="https://64.media.tumblr.com/381dff4ab7ec78882e0bc345abacc8ca/38ca1bd77b3f2cc5-16/s250x400/68b34f66a82e7758084937efd02d2c7a4cd6d0a8.pnj" alt="jermaF" width="190">
+<img src="https://64.media.tumblr.com/b9ee81058a6ec86d191cd4c5ae7d31f0/62d72196e7fb1e6c-41/s100x200/71918bbb738e4ca8410d2db00ae13ef334c170c3.pnj" alt="jermaF" width="190">
+<img src="https://64.media.tumblr.com/e2c23417e1b55a975c8e085be25703ec/a5f6ba281bb997a1-92/s100x200/729b228f591a8ec92cc6fdd416e2070f88bda788.gifv" alt="jermaF" width="190">
 
   
   <br>
   
   <img src="https://64.media.tumblr.com/6ffd5ec12521fc42251b4eb0d3450a6d/d66d61988c62a8b6-24/s250x400/fd6f950d30dc31136ecc78ad804eda8b5387a36d.gifv" alt="jermaF" width="190">
-     
+       <img src="https://64.media.tumblr.com/1daa7425a570742408f356f605ae4c62/f9cd90db694f5b2f-2a/s250x400/18558bc984dca05cb304792fffc41af3bfa367af.gifv" alt="jermaF" width="190">
+       <img src="https://64.media.tumblr.com/87eae3d71633f49775e9041aeb89473f/a5f6fdde0443fd46-1f/s250x400/0c6586909030e99bf90587a5185ea8f6d8926c6b.gifv" alt="jermaF" width="190">
+       <img src="https://64.media.tumblr.com/c141d5970a11de2005b983c1e569e792/7bc6615e56c9c839-93/s250x400/aa26abb9a9b2986f8b3729eb1c81af4d23373e4c.gifv" alt="jermaF" width="190">
+
 </div>
 
 
