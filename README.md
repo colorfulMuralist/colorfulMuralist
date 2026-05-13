@@ -1,4 +1,4 @@
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/dida2rq-408bd01e-cf6e-42c7-b087-3ebdb7bbdf91.png/v1/fill/w_350,h_20,q_80,strp/gideon_graves_fan_userbar_by_hopebulletz_dida2rq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAiLCJwYXRoIjoiL2YvZmEyYzVkODgtOTY2My00NTIzLTk3ZDktNjVkYWJiMjJkMmVlL2RpZGEycnEtNDA4YmQwMWUtY2Y2ZS00MmM3LWIwODctM2ViZGI3YmJkZjkxLnBuZyIsIndpZHRoIjoiPD0zNTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ikeWuXl7L1psxWq_mtX7sBByC8N6_MRWylvGJWtanYM" alt="jermaF" width="480">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/dijfapv-eb4aa581-cb28-425d-a46c-0ac676a3e74a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGlqZmFwdi1lYjRhYTU4MS1jYjI4LTQyNWQtYTQ2Yy0wYWM2NzZhM2U3NGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ybgj7c7pjHcFlmNfHoxUvyjam9mSxXiIcfZM4C5nTLk" alt="jermaF" width="480">
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
@@ -26,6 +26,7 @@
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>i have social anxiety even in pony game so sorry if im silent 😭</p>
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/dida2rq-408bd01e-cf6e-42c7-b087-3ebdb7bbdf91.png/v1/fill/w_350,h_20,q_80,strp/gideon_graves_fan_userbar_by_hopebulletz_dida2rq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAiLCJwYXRoIjoiL2YvZmEyYzVkODgtOTY2My00NTIzLTk3ZDktNjVkYWJiMjJkMmVlL2RpZGEycnEtNDA4YmQwMWUtY2Y2ZS00MmM3LWIwODctM2ViZGI3YmJkZjkxLnBuZyIsIndpZHRoIjoiPD0zNTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ikeWuXl7L1psxWq_mtX7sBByC8N6_MRWylvGJWtanYM" alt="jermaF" width="480">
 
 <p>roxy, calliope, and kanaya kin u_u</p>
 
