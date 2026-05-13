@@ -24,6 +24,8 @@
 <p>very neurodivergent 👍👍👍</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>i have social anxiety even in pony game so sorry if im silent 😭</p>
+<p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
+
 <p>roxy, calliope, and kanaya kin u_u</p>
 
 <p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.ᐟ</strong></p>
