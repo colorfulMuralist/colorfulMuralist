@@ -19,7 +19,7 @@
   <li>vemree or imogen</li>
 </ul>
 
-<p><strong>dni darkship/map or anything of sorts</strong></p>
+<p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander! pls just block me i am not looking for arguments.</strong></p>
 
 <p>very neurodivergent 👍👍👍</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
