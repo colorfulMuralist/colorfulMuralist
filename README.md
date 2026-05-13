@@ -1,10 +1,10 @@
+  <img src="https://i.pinimg.com/736x/dc/61/43/dc614328b7bc2b1e1e2efe098a69462e.jpg" alt="jerma" width="470">
+
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://i.pinimg.com/736x/5d/da/8a/5dda8a2fcd2632d2cc7872fbad06ba6a.jpg" alt="jermaF" width="190">
   <img src="https://i.pinimg.com/originals/8e/65/1c/8e651c0bede47e98a4fde2b1c008b4e5.gif" alt="jerma2" width="120">
   <img src="https://i.pinimg.com/736x/c3/8b/11/c38b113adbc42f834499006a99b0c1dc.jpg" alt="jerma" width="160">
 </div>
-
-<hr>
 
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
 
