@@ -17,7 +17,7 @@
   <li>she/he</li>
 </ul>
 <ul>
-  <li>vemree or imogen</li>
+  <li>vemree , morgen , or imogen</li>
 </ul>
 
 <p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander people nor am i looking for arguments. pls just block me and go on with your day!</strong></p>
