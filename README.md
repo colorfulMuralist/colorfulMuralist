@@ -25,10 +25,10 @@
 <p>very neurodivergent 👍👍👍</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>i have social anxiety even in pony game so sorry if im silent 😭</p>
-<p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
-
-
 <p>roxy, calliope, and kanaya kin u_u</p>
+<p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
+  <img src="https://i1-e.pinimg.com/1200x/80/e8/24/80e8247e68a3b3508ccfaa296a62ccf0.jpg" alt="jerma2" width="280">
+
 
 <p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.ᐟ</strong></p>
 
@@ -46,7 +46,7 @@ jerma985<br>
 mlp<br>
 stardew valley<br>
 athf<br>
-eltingville CHUD
+the eltingville club
 </p>
 
 <h2>music i like</h2>
