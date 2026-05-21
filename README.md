@@ -22,7 +22,7 @@
 
 <p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander people nor am i looking for arguments. pls just block me and go on with your day!</strong></p>
 
-<p>very neurodivergent 👍👍👍</p>
+<p>very neurodivergent 👍👍👍 diagnosed ocd and adhd</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>i have social anxiety even in pony game so sorry if im silent 😭</p>
 <p>roxy, calliope, and kanaya kin u_u</p>
