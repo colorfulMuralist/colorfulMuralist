@@ -22,7 +22,7 @@
 
 <p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander people nor am i looking for arguments. pls just block me and go on with your day!</strong></p>
 
-<p>very neurodivergent 👍👍👍 diagnosed ocd and adhd</p>
+<p>very neurodivergent 👍👍👍</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>i have social anxiety even in pony game so sorry if im silent 😭</p>
 <p>roxy, calliope, and kanaya kin u_u</p>
@@ -86,7 +86,7 @@ Fiona Apple<br>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e77.png" alt="jermaF" width="190">
 <br>
 <img src="https://blinkie-net.neocities.org/Stamps/2/bug.png" alt="jermaF" width="190">
-<img src="https://blinkie-net.neocities.org/Stamps/Pp/dave%20striders%20gonna%20stride.gif" alt="jermaF" width="190">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1fb98e4-c7e6-458e-a142-2200e5b6dd8d/djftgbj-8c0cdcd3-ef27-4eea-a454-e893b6180507.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kMWZiOThlNC1jN2U2LTQ1OGUtYTE0Mi0yMjAwZTViNmRkOGQvZGpmdGdiai04YzBjZGNkMy1lZjI3LTRlZWEtYTQ1NC1lODkzYjYxODA1MDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.837EpslsI75cZdgIVROgttU_rSOgp1_7FdyrN_zs3FY" alt="jermaF" width="190">
 <img src="https://blinkie-net.neocities.org/Stamps/7/bro.png" alt="jermaF" width="190">
 <img src="https://blinkie-net.neocities.org/Stamps/7/underrated-music.png" alt="jermaF" width="190">
 
