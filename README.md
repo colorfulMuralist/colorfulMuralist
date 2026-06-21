@@ -24,7 +24,7 @@
 
 <p>very neurodivergent 👍👍👍</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
-<p>mostly silent lmao😭</p>
+<p>you cannot misgender me! i am a boy and a girl</p>
 <p>roxy + calliope kin u_u</p>
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
   <img src="https://i1-e.pinimg.com/1200x/80/e8/24/80e8247e68a3b3508ccfaa296a62ccf0.jpg" alt="jerma2" width="280">
