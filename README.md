@@ -8,12 +8,15 @@
 </div>
 
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
-
+━━ <a href="https://dogsmillionaire.straw.page/">straw</a> ━━
+<a href="https://greedo413.atabook.org/">ata</a> ━━
+<a href="https://pronouns.cc/@greedo413">prns</a> ━━
+<p>     </p>
 
   </a>
 </strong>
-
 <ul>
+  <br>
   <li>she/he</li>
 </ul>
 <ul>
@@ -32,34 +35,7 @@
 
 <p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.ᐟ</strong></p>
 
-<h2>fandoms i am in</h2>
-<p>
-homestuck<br>
-spto / spvtw<br>
-resident evil<br>
-genshin impact<br>
-team fortress 2<br>
-utau/vocaloid<br>
-eddsworld<br>
-portal 2<br>
-jerma985<br>
-mlp<br>
-stardew valley<br>
-athf<br>
-the eltingville club
-</p>
 
-<h2>music i like</h2>
-<p>
-Bjork<br>
-Mitski<br>
-Devi Mcallion<br>
-Aphex Twin<br>
-Alex G<br>
-MCR<br>
-Fiona Apple<br>
-  Cocteau Twins
-</p>
 <hr>
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7069d944-09a0-49e8-ae06-9180bee54175/d72q4f2-e669822b-4013-4c13-9b31-6a3baa6873c6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MDY5ZDk0NC0wOWEwLTQ5ZTgtYWUwNi05MTgwYmVlNTQxNzUvZDcycTRmMi1lNjY5ODIyYi00MDEzLTRjMTMtOWIzMS02YTNiYWE2ODczYzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8ed1dQyFegNHQFhXNtHancvc6tazU6vAifNLVc63yDA"
