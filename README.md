@@ -4,6 +4,7 @@
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://i.pinimg.com/736x/77/f1/77/77f177395748fbd33e7d634bf4c35ebe.jpg" alt="jermaF" width="190">
     <img src="https://i.pinimg.com/736x/4a/ad/b2/4aadb24de8702e6fb0b4ee1a8ad654e3.jpg" alt="jerma" width="188">
+    <img src="https://i.pinimg.com/736x/aa/a0/4b/aaa04bd9aac0c1ab8fc77887e885bcef.jpg" alt="jerma" width="125">
 
 </div>
 
