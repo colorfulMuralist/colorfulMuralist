@@ -2,8 +2,8 @@
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://i.pinimg.com/736x/77/f1/77/77f177395748fbd33e7d634bf4c35ebe.jpg" alt="jermaF" width="190">
-    <img src="https://i.pinimg.com/736x/4a/ad/b2/4aadb24de8702e6fb0b4ee1a8ad654e3.jpg" alt="jerma" width="188">
+  <img src="https://media1.tenor.com/m/Ae_1jeE-mFQAAAAC/gideon-graves-scott-pilgrim.gif" alt="jermaF" width="145">
+    <img src="https://i.pinimg.com/736x/4a/ad/b2/4aadb24de8702e6fb0b4ee1a8ad654e3.jpg" alt="jerma" width="190">
     <img src="https://i.pinimg.com/736x/aa/a0/4b/aaa04bd9aac0c1ab8fc77887e885bcef.jpg" alt="jerma" width="125">
 
 </div>
@@ -88,9 +88,9 @@
 
    <br>
          <img src="https://64.media.tumblr.com/f5c065ccec6dad8d85fc207c0ccbb64e/242974bc29340433-cc/s640x960/0d27f3a480ddd97e460d2dea2c47a9904ffae41a.pnj" alt="jermaF" width="190">
-         <img src="https://adriansblinkiecollection.neocities.org/w9.gif" alt="jermaF" width="190">
          <img src="https://adriansblinkiecollection.neocities.org/e75.gif" alt="jermaF" width="190">
           <img src="https://adriansblinkiecollection.neocities.org/q1.gif" alt="jermaF" width="190">
+          <img src="https://media1.tenor.com/m/GJi1nUqp15UAAAAC/gideon-graves-blinkie.gif" alt="jermaF" width="190">
 
 
 </div>
