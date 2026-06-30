@@ -18,7 +18,7 @@
 </strong>
 <ul>
   <br>
-  <li>he/him , she/her</li>
+  <li>he/him , they/them , she/her if we are friends idk</li>
 </ul>
 <ul>
   <li>vemree , morgen , or imogen</li>
