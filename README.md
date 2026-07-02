@@ -18,7 +18,7 @@
 </strong>
 <ul>
   <br>
-  <li>he/him , they/them , rarely she/hert</li>
+  <li> they/them , he/him , rarely she/hert</li>
 </ul>
 <ul>
   <li>vemree , morgen , or imogen</li>
