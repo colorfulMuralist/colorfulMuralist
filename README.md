@@ -1,7 +1,7 @@
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/diecpn1-af5f4511-7db6-49ac-acf7-1c616c84984f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGllY3BuMS1hZjVmNDUxMS03ZGI2LTQ5YWMtYWNmNy0xYzYxNmM4NDk4NGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rEsPDykU4gv6SbuMbXonULd4FedP_LLQt_LhxqAo4ho" alt="jermaF" width="480">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/diecpn1-af5f4511-7db6-49ac-acf7-1c616c84984f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGllY3BuMS1hZjVmNDUxMS03ZGI2LTQ5YWMtYWNmNy0xYzYxNmM4NDk4NGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rEsPDykU4gv6SbuMbXonULd4FedP_LLQt_LhxqAo4ho" alt="jermaF" width="480">
 
 
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+<div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
   <img src="https://i.pinimg.com/736x/6a/dc/ca/6adcca0742b96e24fb2d28777a63b520.jpg" alt="jermaF" width="132">
     <img src="https://i.pinimg.com/736x/4a/ad/b2/4aadb24de8702e6fb0b4ee1a8ad654e3.jpg" alt="jerma" width="190">
     <img src="https://i.pinimg.com/736x/aa/a0/4b/aaa04bd9aac0c1ab8fc77887e885bcef.jpg" alt="jerma" width="125">
@@ -30,10 +30,10 @@
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>roxy + calliope kin</p>
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
-  <img src="https://i1-e.pinimg.com/1200x/80/e8/24/80e8247e68a3b3508ccfaa296a62ccf0.jpg" alt="jerma2" width="280">
+  <img src="https://i.pinimg.com/736x/f2/b7/ae/f2b7aea264656d93c91cd6095eb9fe87.jpg" alt="jerma2" width="280">
 
 
-<p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.ᐟ</strong></p>
+<p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.</strong></p>
 
 
 <hr>
