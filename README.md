@@ -10,7 +10,6 @@
 
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
 ━━ <a href="https://dogsmillionaire.straw.page/">straw</a> ━━
-<a href="https://greedo413.atabook.org/">ata</a> ━━
 <a href="https://pronouns.cc/@greedo413">prns</a> ━━
 <p>     </p>
 
