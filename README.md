@@ -101,11 +101,11 @@
   <img src="https://64.media.tumblr.com/6e2ebe2cdaeb726354e870dcf4efaf97/be51bed3463f06bc-df/s400x600/cc5c6ec66b6ed0f8bfa16b71992e7270509b37d0.png" alt="jermaF" width="190">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44bfe9ce-2e41-42a1-af72-c65cfef52e39/dhmgp41-83e7bc79-aec9-4954-8b61-5b39b4a8273c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0YmZlOWNlLTJlNDEtNDJhMS1hZjcyLWM2NWNmZWY1MmUzOVwvZGhtZ3A0MS04M2U3YmM3OS1hZWM5LTQ5NTQtOGI2MS01YjM5YjRhODI3M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MCWXwLTkNB5ehaG_nsKieSc0YKtd_caK-vlqoN1UxsQ" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/1aa2d9f2149a046c5d58c5acf117826f/693914fe763c60dc-4e/s100x200/bbb04df968fff874038e40fb3eb0904c4c0eee3e.jpg" alt="jermaF" width="190">
- <img src="https://64.media.tumblr.com/a4e176d72d1445724f4a8d830d24a1bd/b8f5efa02b238ee3-b2/s100x200/fd1389eaacc2252d4380d471c61f65e5c58b15fe.pnj" alt="jermaF" width="190">
+ <img src="https://64.media.tumblr.com/96f53cb81ac7beae8139605e85157213/94298cccf2bf6727-9f/s100x200/6cc126d05759c93fa868a5f1aa143420142c8acb.pnj" alt="jermaF" width="190">
 <br>
 <br>
-<br>
- <img src="https://media1.tenor.com/m/p1U4Vu7OvJgAAAAC/patrick-stump-fall-out-boy.gif" alt="jermaF" width="230">
+<br
+<h4>     </h4><img src="https://media1.tenor.com/m/p1U4Vu7OvJgAAAAC/patrick-stump-fall-out-boy.gif" alt="jermaF" width="230">
 
  
  
