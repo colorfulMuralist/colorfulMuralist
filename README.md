@@ -1,4 +1,4 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/diecpn1-af5f4511-7db6-49ac-acf7-1c616c84984f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGllY3BuMS1hZjVmNDUxMS03ZGI2LTQ5YWMtYWNmNy0xYzYxNmM4NDk4NGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rEsPDykU4gv6SbuMbXonULd4FedP_LLQt_LhxqAo4ho" alt="jermaF" width="480">
+
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
@@ -29,7 +29,6 @@
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>roxy + calliope kin</p>
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
-  <img src="https://i.pinimg.com/736x/f2/b7/ae/f2b7aea264656d93c91cd6095eb9fe87.jpg" alt="jerma2" width="280">
 
 
 <p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.</strong></p>
@@ -55,10 +54,11 @@
                 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52f520c5-2223-486c-83c6-de0bb1a56708/d7r5m1d-a552e6d6-7b35-400e-9445-b92fe3363e69.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MmY1MjBjNS0yMjIzLTQ4NmMtODNjNi1kZTBiYjFhNTY3MDgvZDdyNW0xZC1hNTUyZTZkNi03YjM1LTQwMGUtOTQ0NS1iOTJmZTMzNjNlNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9hQDV0H7u_PPcWkeWh_AvbAQJByux2dIXS-rYQo15hQ" alt="jermaF" width="190">
                 <img src="https://external-media.spacehey.net/media/sJxbX3phJcKo3vAPK431o6UFvvjB4Y1-H8EOvF16hKWk=/https://64.media.tumblr.com/e5a4ef26da195a1fd220da75bfb96dc9/bb20af285718735d-ef/s250x400/6c44f165dd98ffa5fbc931a34e2aeaa4affef68d.gifv" alt="jermaF" width="190">
                 <br>
-              <img src="https://adriansblinkiecollection.neocities.org/h31.gif" alt="jermaF" width="190">
-              <img src="https://external-media.spacehey.net/media/sfuzSq40ed_eWTdrnn8r3Joo7IcJyMa8ccHntkvKMSPo=/https://i.ibb.co/XkYzSP1/9ce847f2a7acd551ecfd91fadce4f22fe42b47c5.gif" alt="jermaF"width="190">
-              <img src="https://adriansblinkiecollection.neocities.org/y14.gif" alt="jermaF"width="190">
-  <img src="https://64.media.tumblr.com/ff35abbe4029b96be536c127871bcbfd/b649b085b97ae261-24/s250x400/78b15153c32b2a5a13148643bbcf02118a4cc273.gifv" alt="jermaF" width="190">
+                   <img src="https://i.imgur.com/o3Zzue8.gif" alt="jermaF" width="190">
+                 <img src="https://64.media.tumblr.com/ea2ee2d6f20a4efc5fd2fe0791d987d5/5038410bd494fb5b-58/s250x400/0af18e6a166cd2419dbbc4b20c95f7dbcc676475.gifv" alt="jermaF" width="190">
+                 <img src="https://64.media.tumblr.com/49b76b1f1bf28d73186b7d4980954e4d/c0c684684087887b-44/s250x400/0a5311877428fbe12c2df6a316518325b819431c.gifv" alt="jermaF" width="190">
+                 <img src="https://64.media.tumblr.com/d937482ff2ea5b702b43dc6882dcef05/3b53e31374562f89-ad/s250x400/9893002f6b0f22fc1da8c6d7439537c843157c90.gifv" alt="jermaF" width="190">
+
 
 
   <br>
@@ -94,7 +94,7 @@
  <br>
    <img src="https://adriansblinkiecollection.neocities.org/x34.gif" alt="jermaF" width="190">
    <img src="https://adriansblinkiecollection.neocities.org/x45.gif" alt="jermaF" width="190">
-   <img src="https://adriansblinkiecollection.neocities.org/d22.gif" alt="jermaF" width="190">
+   <img src="https://adriansblinkiecollection.neocities.org/z6.gif" alt="jermaF" width="190">
    <img src="https://adriansblinkiecollection.neocities.org/g44.gif" alt="jermaF" width="190">
 
  <br>
