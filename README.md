@@ -31,7 +31,7 @@
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
 
 
-<p><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.</strong></p>
+<h3><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . </strong></h3>
 
 
 <hr>
@@ -93,7 +93,7 @@
  <img src="https://external-media.spacehey.net/media/soe1ZIYnPSdKcZXKRyd9QYHL02tHSlWGDi6-oCKDEPeA=/https://i.ibb.co/G9j2Dxj/ray-stamp-three-by-morein-d1104wu-fullview.png" alt="jermaF" width="190"> 
  <br>
    <img src="https://adriansblinkiecollection.neocities.org/x34.gif" alt="jermaF" width="190">
-   <img src="https://adriansblinkiecollection.neocities.org/x45.gif" alt="jermaF" width="190">
+   <img src="https://64.media.tumblr.com/935158b9e46178d76cac63fff48d919b/0f11969e8ef079dd-86/s250x400/f1a512e0b6ca75e70d981f613702d580e83cac7e.gifv" alt="jermaF" width="190">
    <img src="https://adriansblinkiecollection.neocities.org/z6.gif" alt="jermaF" width="190">
    <img src="https://adriansblinkiecollection.neocities.org/g44.gif" alt="jermaF" width="190">
 
@@ -102,8 +102,10 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44bfe9ce-2e41-42a1-af72-c65cfef52e39/dhmgp41-83e7bc79-aec9-4954-8b61-5b39b4a8273c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0YmZlOWNlLTJlNDEtNDJhMS1hZjcyLWM2NWNmZWY1MmUzOVwvZGhtZ3A0MS04M2U3YmM3OS1hZWM5LTQ5NTQtOGI2MS01YjM5YjRhODI3M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MCWXwLTkNB5ehaG_nsKieSc0YKtd_caK-vlqoN1UxsQ" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/1aa2d9f2149a046c5d58c5acf117826f/693914fe763c60dc-4e/s100x200/bbb04df968fff874038e40fb3eb0904c4c0eee3e.jpg" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/a4e176d72d1445724f4a8d830d24a1bd/b8f5efa02b238ee3-b2/s100x200/fd1389eaacc2252d4380d471c61f65e5c58b15fe.pnj" alt="jermaF" width="190">
-
-
+<br>
+<br>
+<br>
+ <img src="https://media1.tenor.com/m/p1U4Vu7OvJgAAAAC/patrick-stump-fall-out-boy.gif" alt="jermaF" width="230">
 
  
  
