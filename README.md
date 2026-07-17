@@ -73,7 +73,7 @@
    
   <img src="https://adriansblinkiecollection.neocities.org/h43.gif" alt="jermaF" width="190">
   <img src="https://adriansblinkiecollection.neocities.org/z47.gif" alt="jermaF" width="190">
-    <img src="https://adriansblinkiecollection.neocities.org/y24.gif" alt="jermaF" width="190">
+    <img src="https://64.media.tumblr.com/e7fabd155b2ef385890a2359ae3deab9/51c6947a4649e456-3a/s400x600/dd161a667d30e8260ba3d26cd0ec8f006578dcbd.gifv" alt="jermaF" width="190">
         <img src="https://64.media.tumblr.com/b94ac342feabaf9a17622e93b9f85009/6e6adcce383c66a0-5e/s250x400/aad40d62a0c756b6e9e940dc15f775ca4f5c909c.gifv" alt="jermaF" width="190">
 <br>
   <img src="https://external-media.spacehey.net/media/sx_RkVMYEHxK-yQ9vqXEYqw1w99j7wO9DG6BTxOWBP94=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ca61aea-f7b7-471c-a92c-2beda03c80e1/dggu38j-168d8a94-1d27-43cb-afe0-8922c98c0147.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjYTYxYWVhLWY3YjctNDcxYy1hOTJjLTJiZWRhMDNjODBlMVwvZGdndTM4ai0xNjhkOGE5NC0xZDI3LTQzY2ItYWZlMC04OTIyYzk4YzAxNDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EgKlPUO7yzfcJmyobg6p4JJDYH3H093EKwTrXopukpE" alt="jermaF" width="190">
@@ -89,7 +89,7 @@
 <br>
 <img src="https://64.media.tumblr.com/b9ee81058a6ec86d191cd4c5ae7d31f0/62d72196e7fb1e6c-41/s100x200/71918bbb738e4ca8410d2db00ae13ef334c170c3.pnj" alt="jermaF" width="190">
 <img src="https://64.media.tumblr.com/381dff4ab7ec78882e0bc345abacc8ca/38ca1bd77b3f2cc5-16/s250x400/68b34f66a82e7758084937efd02d2c7a4cd6d0a8.pnj" alt="jermaF" width="190">  
-<img src="https://64.media.tumblr.com/ecf6240c9bd957d2397dec08276be5ad/a88b7b02fd73d6cc-16/s100x200/4e10217fd5a5d0f15e889c058eba699fad81ebd8.pnj" alt="jermaF" width="190">
+<img src="https://64.media.tumblr.com/d1af37a1529a04bfade4b39fb16cec3b/d66d61988c62a8b6-dc/s100x200/14d9af1b48323ce82ef8820e0b9e82f756f3a603.pnj" alt="jermaF" width="190">
  <img src="https://external-media.spacehey.net/media/soe1ZIYnPSdKcZXKRyd9QYHL02tHSlWGDi6-oCKDEPeA=/https://i.ibb.co/G9j2Dxj/ray-stamp-three-by-morein-d1104wu-fullview.png" alt="jermaF" width="190"> 
  <br>
    <img src="https://adriansblinkiecollection.neocities.org/x34.gif" alt="jermaF" width="190">
