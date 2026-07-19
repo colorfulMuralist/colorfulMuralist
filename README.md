@@ -20,7 +20,7 @@
   <li> they/them , he/him , rarely she/her</li>
 </ul>
 <ul>
-  <li>vemree , morgen , or imogen</li>
+  <li>vemree , morgen</li>
 </ul>
 
 <p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander people nor am i looking for arguments. pls just block me and go on with your day</strong></p>
