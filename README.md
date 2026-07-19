@@ -2,9 +2,9 @@
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
-  <img src="https://i.pinimg.com/736x/6a/dc/ca/6adcca0742b96e24fb2d28777a63b520.jpg" alt="jermaF" width="132">
-    <img src="https://i.pinimg.com/736x/4a/ad/b2/4aadb24de8702e6fb0b4ee1a8ad654e3.jpg" alt="jerma" width="190">
-    <img src="https://i.pinimg.com/736x/aa/a0/4b/aaa04bd9aac0c1ab8fc77887e885bcef.jpg" alt="jerma" width="125">
+  <img src="https://i.pinimg.com/736x/6a/dc/ca/6adcca0742b96e24fb2d28777a63b520.jpg" alt="jermaF" width="142">
+    <img src="https://i.pinimg.com/736x/ce/3f/d6/ce3fd60d4e12f6eed010635853f61c8f.jpg" alt="jerma" width="200">
+    <img src="https://media1.tenor.com/m/hvtj-jimk5cAAAAd/yahoo.gif" alt="jerma" width="180">
 
 </div>
 
