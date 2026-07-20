@@ -2,9 +2,9 @@
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
-  <img src="https://64.media.tumblr.com/184831c7ee575d7390b273c93628d6a9/c868f45bccfaaf2a-f3/s540x810/c24b7eab0312d97d8a490c15fbec093af5cd1893.jpg" alt="jermaF" width="238">
-    <img src="https://i.pinimg.com/736x/ce/3f/d6/ce3fd60d4e12f6eed010635853f61c8f.jpg" alt="jerma" width="280">
-    <img src="https://media1.tenor.com/m/blQMkRMC_4EAAAAd/gerard-way-illi.gif" alt="jerma" width="255">
+  <img src="https://i.pinimg.com/736x/fe/71/df/fe71dfb96fad3059db09f6117971b56b.jpg" alt="jermaF" width="238">
+    <img src="https://i.pinimg.com/736x/ce/3f/d6/ce3fd60d4e12f6eed010635853f61c8f.jpg" alt="jerma" width="260">
+    <img src="https://media1.tenor.com/m/blQMkRMC_4EAAAAd/gerard-way-illi.gif" alt="jerma" width="240">
 
 </div>
 
