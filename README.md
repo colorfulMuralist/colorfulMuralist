@@ -2,9 +2,9 @@
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
-  <img src="https://i.pinimg.com/736x/d4/50/97/d450975b9a0235011c7b9559b06dedf6.jpg" alt="jermaF" width="178">
-    <img src="https://i.pinimg.com/736x/ce/3f/d6/ce3fd60d4e12f6eed010635853f61c8f.jpg" alt="jerma" width="260">
-    <img src="https://media1.tenor.com/m/blQMkRMC_4EAAAAd/gerard-way-illi.gif" alt="jerma" width="240">
+  <img src="https://i.pinimg.com/736x/78/a1/79/78a1790ef5a4b0931a5d68e442005582.jpg" alt="jermaF" width="240">
+    <img src="https://i.pinimg.com/736x/67/2e/03/672e03be04685519a4d89a2630381611.jpg" alt="jerma" width="181">
+    <img src="https://media1.tenor.com/m/e4ldMHXQcyYAAAAC/gerard-way-mcr.gif" alt="jerma" width="238">
 
 </div>
 
@@ -98,7 +98,7 @@
    <img src="https://adriansblinkiecollection.neocities.org/g44.gif" alt="jermaF" width="190">
 
  <br>
-  <img src="https://external-media.spacehey.net/media/sRJQe_zazD4g_7m9wkmvS0aLm1zvJ0pZw7Qsr4KFv-oU=/https://gifcity.carrd.co/assets/images/gallery57/3aac5cae.png?v=49efbe4c" alt="jermaF" width="190">
+  <img src="https://64.media.tumblr.com/08fe7390b8e128ed3f6957c1bd0e7349/75268297eb0a5d01-39/s100x200/322eafe7dde352fb4099369f74c56766ef64189d.gifv" alt="jermaF" width="190">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44bfe9ce-2e41-42a1-af72-c65cfef52e39/dhmgp41-83e7bc79-aec9-4954-8b61-5b39b4a8273c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0YmZlOWNlLTJlNDEtNDJhMS1hZjcyLWM2NWNmZWY1MmUzOVwvZGhtZ3A0MS04M2U3YmM3OS1hZWM5LTQ5NTQtOGI2MS01YjM5YjRhODI3M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MCWXwLTkNB5ehaG_nsKieSc0YKtd_caK-vlqoN1UxsQ" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/1aa2d9f2149a046c5d58c5acf117826f/693914fe763c60dc-4e/s100x200/bbb04df968fff874038e40fb3eb0904c4c0eee3e.jpg" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/96f53cb81ac7beae8139605e85157213/94298cccf2bf6727-9f/s100x200/6cc126d05759c93fa868a5f1aa143420142c8acb.pnj" alt="jermaF" width="190">
