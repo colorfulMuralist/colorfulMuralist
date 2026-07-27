@@ -102,6 +102,17 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44bfe9ce-2e41-42a1-af72-c65cfef52e39/dhmgp41-83e7bc79-aec9-4954-8b61-5b39b4a8273c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0YmZlOWNlLTJlNDEtNDJhMS1hZjcyLWM2NWNmZWY1MmUzOVwvZGhtZ3A0MS04M2U3YmM3OS1hZWM5LTQ5NTQtOGI2MS01YjM5YjRhODI3M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MCWXwLTkNB5ehaG_nsKieSc0YKtd_caK-vlqoN1UxsQ" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/1aa2d9f2149a046c5d58c5acf117826f/693914fe763c60dc-4e/s100x200/bbb04df968fff874038e40fb3eb0904c4c0eee3e.jpg" alt="jermaF" width="190">
  <img src="https://64.media.tumblr.com/96f53cb81ac7beae8139605e85157213/94298cccf2bf6727-9f/s100x200/6cc126d05759c93fa868a5f1aa143420142c8acb.pnj" alt="jermaF" width="190">
+ <br>
+   <img src="https://shishka.neocities.org/graphics/img/blinkies/shishka-my-chemical-romance-revenge.gif" alt="jermaF" width="190">
+   <img src="https://jack-dawlia.neocities.org/image/gif/black-dresses-peaceful-as-hell-blinkie-jd.gif" alt="jermaF" width="190">
+   <img src="https://adriansblinkiecollection.neocities.org/z41.gif" alt="jermaF" width="190">
+   <img src="https://adriansblinkiecollection.neocities.org/y14.gif" alt="jermaF" width="190">
+
+  <br>
+  <img src="https://64.media.tumblr.com/7c040120e3863b0f249b7a501bcaddad/d3abe813af06eb03-fd/s100x200/5d5899268aac879033998529a98f8ea5601fb67b.gifv" alt="jermaF" width="190">
+  <img src="https://external-media.spacehey.net/media/sZtBQpDomZsYEZz4I4i_7w_rwBOz5SeKGmpEaiO0S5-8=/https://64.media.tumblr.com/b9d11ab674dcc0d3fb185c0d1adb3c22/00458b2dd89db537-6f/s250x250_c1/f730861d3d13af8f18844a89296fb2f72e8ea6de.jpg" alt="jermaF" width="190">
+  <img src="https://external-media.spacehey.net/media/ssYPyEvbKc3T95DydhAg0HhvLogkOuk3u1uXA-eNwbaE=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df0babe5-f2a0-4afa-a173-c2cf88ddd92c/dus4in-33dcfdea-3462-4afb-9dcb-be4536c0dc04.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmMGJhYmU1LWYyYTAtNGFmYS1hMTczLWMyY2Y4OGRkZDkyY1wvZHVzNGluLTMzZGNmZGVhLTM0NjItNGFmYi05ZGNiLWJlNDUzNmMwZGMwNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.f58JhvP6fLEUzP5pBMMktlePNXcmqPW6B8M9iY9Qnlc" alt="jermaF" width="190">
+ <img src="https://shishka.neocities.org/graphics/img/stamps/mcr-mikey-bug.png" alt="jermaF" width="190">
 <br>
 <br>
 <br
