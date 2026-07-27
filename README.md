@@ -9,6 +9,9 @@
 </div>
 
 <h1>♫⋆｡ ♪ ₊˚♬ ﾟ.</h1>
+<p>
+"Why does it always feel like healing is kinda like removing a vestigial limb. Yeah it never helped me but it's still living tissue."</p>
+
 ━━ <a href="https://dogsmillionaire.straw.page/">straw</a> ━━
 <a href="https://pronouns.cc/@greedo413">prns</a> ━━
 <p>     </p>
