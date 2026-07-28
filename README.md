@@ -19,11 +19,12 @@
   </a>
 </strong>
 <ul>
+    <li>vemree , morgen</li>
   <br>
-  <li> they/them , he/him , rarely she/her</li>
+  <li> they/them , he/him
+  <br>i also don't mind you just using the pronouns of the character i currently am lol</li>
 </ul>
 <ul>
-  <li>vemree , morgen</li>
 </ul>
 
 <p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander people nor am i looking for arguments. pls just block me and go on with your day</strong></p>
