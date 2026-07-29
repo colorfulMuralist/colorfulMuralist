@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
-  <img src="https://i.pinimg.com/736x/78/a1/79/78a1790ef5a4b0931a5d68e442005582.jpg" alt="jermaF" width="240">
+  <img src="https://i.pinimg.com/736x/00/e8/8a/00e88a8a135daa4b3b914304eb9d3f5f.jpg" alt="jermaF" width="235">
     <img src="https://i.pinimg.com/736x/67/2e/03/672e03be04685519a4d89a2630381611.jpg" alt="jerma" width="181">
     <img src="https://media1.tenor.com/m/e4ldMHXQcyYAAAAC/gerard-way-mcr.gif" alt="jerma" width="238">
 
