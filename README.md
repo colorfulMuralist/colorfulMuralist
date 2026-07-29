@@ -32,6 +32,8 @@
 <p>very neurodivergent 👍👍👍</p>
 <p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
 <p>roxy + calliope kin</p>
+  <img src="https://media.tenor.com/mVHgDVl7CSsAAAAi/calliope-homestuck.gif" alt="jermaF" width="70">
+
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
 
 
