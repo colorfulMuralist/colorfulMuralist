@@ -137,7 +137,7 @@ and incase u couldnt tell who my fav mcr band member is
 <img src="https://media1.tenor.com/m/rqL6I2Y0mdcAAAAC/ray-toro-mcr.gif" alt="jermaF" width="190">
 <img src="https://media1.tenor.com/m/lQglCrPi_p0AAAAC/ray-toro-lesbian.gif" alt="jermaF" width="240">
 <br>
-<img src="https://media1.tenor.com/m/UnnmHgEJbL0AAAAd/ray-toro-ray.gif" alt="jermaF" width="190">
+  <img src="https://media1.tenor.com/m/OUaJhdrqAygAAAAC/ray-toro.gif" alt="jermaF" width="260">
  <img src="https://media1.tenor.com/m/zslKUzZT4nEAAAAC/ray-toro-giggling-ray-toro.gif" alt="jermaF" width="240">
 
  
