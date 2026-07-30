@@ -30,14 +30,14 @@
 <p><strong>dni darkship/illegal shipper or anything of that sorts. i dont slander people nor am i looking for arguments. pls just block me and go on with your day</strong></p>
 
 <p>very neurodivergent 👍👍👍</p>
-<p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages</p>
+<p> c+h freely , mostly online but distracted by other tabs + i afk a lot so i might miss messages that arent whispers but i try my best to respond!</p>
 <p>roxy + calliope kin</p>
   <img src="https://media.tenor.com/mVHgDVl7CSsAAAAi/calliope-homestuck.gif" alt="jermaF" width="70">
 
 <p>i am gideon grave's strongest solider,, i LOVE HIM and selfship with him. im fine with doubles!!! i talk about him a LOT tho so be aware of that</p>
 
 
-<h3><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . +.+ ° . ๑・° ⊹ . + ° . </strong></h3>
+<h3><strong> + ° . ๑・° ⊹ . + ° . ๑・° ⊹ . + ° . ๑・° ⊹ .+ ° . ๑・° ⊹ . + ° . </strong></h3>
 
 
 <hr>
