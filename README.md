@@ -4,7 +4,7 @@
 <div style="display: flex; gap: 5px; flex-wrap: wrap; alig">
   <img src="https://i.pinimg.com/736x/00/e8/8a/00e88a8a135daa4b3b914304eb9d3f5f.jpg" alt="jermaF" width="235">
     <img src="https://i.pinimg.com/736x/67/2e/03/672e03be04685519a4d89a2630381611.jpg" alt="jerma" width="181">
-    <img src="https://media1.tenor.com/m/e4ldMHXQcyYAAAAC/gerard-way-mcr.gif" alt="jerma" width="238">
+    <img src="https://media1.tenor.com/m/C0R9Xt6DUcgAAAAd/gerard-way-mcr.gif" alt="jerma" width="255">
 
 </div>
 
@@ -138,7 +138,6 @@ and incase u couldnt tell who my fav mcr band member is
 <img src="https://media1.tenor.com/m/lQglCrPi_p0AAAAC/ray-toro-lesbian.gif" alt="jermaF" width="240">
 <br>
   <img src="https://media1.tenor.com/m/OUaJhdrqAygAAAAC/ray-toro.gif" alt="jermaF" width="260">
- <img src="https://media1.tenor.com/m/zslKUzZT4nEAAAAC/ray-toro-giggling-ray-toro.gif" alt="jermaF" width="240">
  <br>
  <img src="https://media1.tenor.com/m/PA2EIBhKW_MAAAAC/ray-toro-mcr.gif" alt="jermaF" width="240">
 
