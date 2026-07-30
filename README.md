@@ -122,9 +122,24 @@
 <br>
 <br>
 <br
-<h4>     </h4><img src="https://media1.tenor.com/m/p1U4Vu7OvJgAAAAC/patrick-stump-fall-out-boy.gif" alt="jermaF" width="230">
+<h4>   
+and incase u couldnt tell who my fav mcr band member is
+<br>
+<img src="https://64.media.tumblr.com/e4479e1f17e97293fb76a0313911284e/5e79a9ca6fa13927-50/s250x400/8731867e192905bc5d016fbeea99d7285de3dcac.gifv" alt="jermaF" width="190">
+<img src="https://64.media.tumblr.com/8eaedfeef1d02aeedeac20ebf7f4d9f4/242974bc29340433-2a/s640x960/35944e880717d9ea4d2bdf3d50f2ed59d5790e6b.pnj" alt="jermaF" width="190">
+<br>
 
- 
+<img src="https://media1.tenor.com/m/0KRH_gWCmIoAAAAd/ray-toro.gif" alt="jermaF" width="260">
+<img src="https://media1.tenor.com/m/NP9GE_sGwwgAAAAC/ray-toro-my-chemical-romance.gif" alt="jermaF" width="190">
+<img src="https://media1.tenor.com/m/MTRz1iEMlCkAAAAC/ray-toro-ouch.gif" alt="jermaF" width="220">
+<br>
+<img src="https://media1.tenor.com/m/uCq2oKMhjU4AAAAd/mcr-ray-toro.gif" alt="jermaF" width="190">
+<img src="https://media1.tenor.com/m/rqL6I2Y0mdcAAAAC/ray-toro-mcr.gif" alt="jermaF" width="190">
+<img src="https://media1.tenor.com/m/lQglCrPi_p0AAAAC/ray-toro-lesbian.gif" alt="jermaF" width="240">
+<br>
+<img src="https://media1.tenor.com/m/UnnmHgEJbL0AAAAd/ray-toro-ray.gif" alt="jermaF" width="190">
+ <img src="https://media1.tenor.com/m/zslKUzZT4nEAAAAC/ray-toro-giggling-ray-toro.gif" alt="jermaF" width="240">
+
  
 
 
