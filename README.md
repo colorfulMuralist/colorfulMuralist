@@ -111,12 +111,12 @@
  <br>
    <img src="https://shishka.neocities.org/graphics/img/blinkies/shishka-my-chemical-romance-revenge.gif" alt="jermaF" width="190">
    <img src="https://jack-dawlia.neocities.org/image/gif/black-dresses-peaceful-as-hell-blinkie-jd.gif" alt="jermaF" width="190">
-   <img src="https://adriansblinkiecollection.neocities.org/z41.gif" alt="jermaF" width="190">
+   <img src="https://64.media.tumblr.com/e9190ec76737b2d2e19e3ac57c28ff33/72e2590fb9e2f26c-61/s250x400/ae0530d91f9cba90a52ac1300c7b1e429332651c.gifv" alt="jermaF" width="190">
    <img src="https://adriansblinkiecollection.neocities.org/y14.gif" alt="jermaF" width="190">
 
   <br>
   <img src="https://64.media.tumblr.com/7c040120e3863b0f249b7a501bcaddad/d3abe813af06eb03-fd/s100x200/5d5899268aac879033998529a98f8ea5601fb67b.gifv" alt="jermaF" width="190">
-  <img src="https://external-media.spacehey.net/media/sZtBQpDomZsYEZz4I4i_7w_rwBOz5SeKGmpEaiO0S5-8=/https://64.media.tumblr.com/b9d11ab674dcc0d3fb185c0d1adb3c22/00458b2dd89db537-6f/s250x250_c1/f730861d3d13af8f18844a89296fb2f72e8ea6de.jpg" alt="jermaF" width="190">
+  <img src="https://64.media.tumblr.com/7decdb319e9da5a9c12fd254a68e1aae/68eca7545e0fd2fd-5f/s100x200/12f447eb7ef1312c0d85827ecc4a73bbc495f0c9.gifv" alt="jermaF" width="190">
   <img src="https://external-media.spacehey.net/media/ssYPyEvbKc3T95DydhAg0HhvLogkOuk3u1uXA-eNwbaE=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df0babe5-f2a0-4afa-a173-c2cf88ddd92c/dus4in-33dcfdea-3462-4afb-9dcb-be4536c0dc04.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmMGJhYmU1LWYyYTAtNGFmYS1hMTczLWMyY2Y4OGRkZDkyY1wvZHVzNGluLTMzZGNmZGVhLTM0NjItNGFmYi05ZGNiLWJlNDUzNmMwZGMwNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.f58JhvP6fLEUzP5pBMMktlePNXcmqPW6B8M9iY9Qnlc" alt="jermaF" width="190">
  <img src="https://shishka.neocities.org/graphics/img/stamps/mcr-mikey-bug.png" alt="jermaF" width="190">
 <br>
