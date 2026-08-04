@@ -21,7 +21,7 @@
 <ul>
     <li>vemree , morgen</li>
   <br>
-  <li> they/them , he/him
+  <li> they/them , he/him, rarely she/her
   <br>i also don't mind you just using the pronouns of the character i currently am lol</li>
 </ul>
 <ul>
